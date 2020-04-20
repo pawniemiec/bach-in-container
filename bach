@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+set -e
+
+echo -e "\n\nPlaying Bach - Toccata & Fugue in D Minor\n\n"
+/usr/bin/mpg123 /Bach_Toccata_Fugue_in_D_Minor.mp3
